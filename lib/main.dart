@@ -1,5 +1,5 @@
 
-import 'package:ateamproject/view/product_screen.dart';
+import 'package:ateamproject/view/productlist_screen/product_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

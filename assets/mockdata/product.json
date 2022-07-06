@@ -1,0 +1,24 @@
+
+{
+  "data":[
+    {
+      "id":1,
+      "title":"dress",
+      "price":"145",
+      "category":"dfg",
+      "description":"cdvfvg",
+      "image":""
+    },
+
+    {
+      "id":2,
+      "title":"tops",
+      "price":"345",
+      "category":"chgb",
+      "description":"vvc",
+      "image":"https://reqres.in/img/faces/2-image.jpg"
+    }
+
+
+  ]
+}
